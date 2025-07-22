@@ -49,7 +49,7 @@ time reports for seating and invigilation assignments
 
 * Enhanced the solution with Alpha-Beta Pruning, optimizing the Minimax search by eliminating unnecessary branches, making the AI more efficient without compromising decision quality.
 
-# Sudoku Puzzle Solver using CSP Formulation
+#  6- Sudoku Puzzle Solver using CSP Formulation
 * CSP-Based Backtracking Algorithm: Modeled Sudoku as a Constraint Satisfaction Problem (CSP) by enforcing row, column, and block constraints during number placement. Solver dynamically identifies empty cells as variables and iterates through possible values while preserving constraints, a classic CSP-solving approach.
 
 * Interactive GUI: Developed an intuitive interface using Tkinter to let users select difficulty and puzzles interactively, with visual feedback displaying both the initial and solved board states.
